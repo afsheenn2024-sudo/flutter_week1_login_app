@@ -2,13 +2,13 @@
 
 This is a simple Flutter login application created for Week 1 internship task.
 
-## Features
+# Features
 - Login screen with email & password
 - Form validation
 - Navigation to Home Screen
 - Simple UI using Flutter widgets
 
-## Tech Used
+# Tech Used
 - Flutter
 - Dart
 
