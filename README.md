@@ -1,15 +1,4 @@
-# Flutter Week 1 Login App
-
-This is a simple Flutter login application created for Week 1 internship task.
-
-# Features
-- Login screen with email & password
-- Form validation
-- Navigation to Home Screen
-- Simple UI using Flutter widgets
-
-# Tech Used
-- Flutter# Flutter Week 1 – Login Application
+# Flutter Week 1 – Login Application
 
 This Flutter application was developed as part of the Flutter Internship Week 1 assignment. The project demonstrates the fundamentals of Flutter by creating a simple login interface with form validation and navigation between screens.
 
@@ -79,8 +68,3 @@ The application was tested to verify that:
 * Email and password validation works as expected.
 * Navigation to the Home Screen works successfully.
 * The user interface is responsive and functions correctly.
-
-- Dart
-
-## Status
-Completed and ready for submission
