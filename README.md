@@ -30,7 +30,7 @@ lib/
 ### Clone the repository
 
 ```bash
-git clone https://github.com/afsheenn2024-sudo/flutter_week1_login_app.git
+git clone https://github.com/afsheenn2024-sudo/flutter_week1_login_app/tree/main
 ```
 
 ### Open the project
